@@ -5,7 +5,7 @@ dict = {
     'Braga':360,
     'Evora':135
 } 
-print(f'{"Distancias de Lisboa":^30}')
+print(f'{"Distâncias de Lisboa":^30}')
 print('='*30)
 destino = 'Lisboa'
 while True:
